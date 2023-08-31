@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "07Eoes5gVdVmo0BlVtOlmndkkUvQ/M8SOvTDIOtDYIHOEB93e0JZDfEiU+vKPHi7d3/sVvLFgpSPMuKxH90R/g==",
+  "dgSpecHash": "hJWlZzkoSsd06FulTgt1wG6170wHFeHeErW2ZJVvNS23WIG4QlEVy2hSNE8IeVhOGAfDp/NQxRInnkCuuTGDDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\API\\API.csproj",
+  "projectFilePath": "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DDR5\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\DDR5\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1622,11 +1622,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\API\\API.csproj",
+      "projectUniqueName": "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\API\\API.csproj",
+      "projectPath": "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\API\\API.csproj",
       "packagesPath": "C:\\Users\\DDR5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\API\\obj\\",
+      "outputPath": "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DDR5\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1642,8 +1642,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Infrastructure\\Infrastructure.csproj"
+            "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

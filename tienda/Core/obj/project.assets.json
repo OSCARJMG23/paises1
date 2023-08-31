@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj",
+      "projectUniqueName": "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "c:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj",
+      "projectPath": "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\DDR5\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\obj\\",
+      "outputPath": "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DDR5\\AppData\\Roaming\\NuGet\\NuGet.Config"

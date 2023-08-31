@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj": {}
+    "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj": {
+    "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\DDR5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DDR5\\Desktop\\projectsNetCore\\tienda\\Core\\obj\\",
+        "outputPath": "c:\\Users\\DDR5\\Desktop\\paises1\\tienda\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DDR5\\AppData\\Roaming\\NuGet\\NuGet.Config"
